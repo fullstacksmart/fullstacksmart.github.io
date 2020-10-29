@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.2a661e72.chunk.css",
-    "main.js": "/static/js/main.1bf0f1a3.chunk.js",
-    "main.js.map": "/static/js/main.1bf0f1a3.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.325998a2.js",
-    "runtime-main.js.map": "/static/js/runtime-main.325998a2.js.map",
-    "static/js/2.3b048ce7.chunk.js": "/static/js/2.3b048ce7.chunk.js",
-    "static/js/2.3b048ce7.chunk.js.map": "/static/js/2.3b048ce7.chunk.js.map",
-    "static/js/3.404f5ceb.chunk.js": "/static/js/3.404f5ceb.chunk.js",
-    "static/js/3.404f5ceb.chunk.js.map": "/static/js/3.404f5ceb.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.2a661e72.chunk.css.map": "/static/css/main.2a661e72.chunk.css.map",
-    "static/js/2.3b048ce7.chunk.js.LICENSE.txt": "/static/js/2.3b048ce7.chunk.js.LICENSE.txt",
-    "static/media/logo.103b5fa1.svg": "/static/media/logo.103b5fa1.svg"
+    "main.css": "/fullstacksmart.github.io/static/css/main.2a661e72.chunk.css",
+    "main.js": "/fullstacksmart.github.io/static/js/main.1bf0f1a3.chunk.js",
+    "main.js.map": "/fullstacksmart.github.io/static/js/main.1bf0f1a3.chunk.js.map",
+    "runtime-main.js": "/fullstacksmart.github.io/static/js/runtime-main.4e102f01.js",
+    "runtime-main.js.map": "/fullstacksmart.github.io/static/js/runtime-main.4e102f01.js.map",
+    "static/js/2.3b048ce7.chunk.js": "/fullstacksmart.github.io/static/js/2.3b048ce7.chunk.js",
+    "static/js/2.3b048ce7.chunk.js.map": "/fullstacksmart.github.io/static/js/2.3b048ce7.chunk.js.map",
+    "static/js/3.404f5ceb.chunk.js": "/fullstacksmart.github.io/static/js/3.404f5ceb.chunk.js",
+    "static/js/3.404f5ceb.chunk.js.map": "/fullstacksmart.github.io/static/js/3.404f5ceb.chunk.js.map",
+    "index.html": "/fullstacksmart.github.io/index.html",
+    "static/css/main.2a661e72.chunk.css.map": "/fullstacksmart.github.io/static/css/main.2a661e72.chunk.css.map",
+    "static/js/2.3b048ce7.chunk.js.LICENSE.txt": "/fullstacksmart.github.io/static/js/2.3b048ce7.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/fullstacksmart.github.io/static/media/logo.103b5fa1.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.325998a2.js",
+    "static/js/runtime-main.4e102f01.js",
     "static/js/2.3b048ce7.chunk.js",
     "static/css/main.2a661e72.chunk.css",
     "static/js/main.1bf0f1a3.chunk.js"
